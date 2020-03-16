@@ -2,7 +2,7 @@
 // Jad home page: http://kpdus.tripod.com/jad.html
 // Decompiler options: packimports(3) fieldsfirst ansi space 
 // Source File Name:   HelloWorld.java
-
+发范德萨 打发大水
 import java.io.PrintStream;
 
 class HelloChina
