@@ -6,5 +6,6 @@ public class Test1 {
     public static void main(String[] args) {
         System.out.println("545431131 test");
         System.out.println("545431131 test");
+        System.out.println(" test");
     }
 }
